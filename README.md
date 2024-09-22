@@ -22,3 +22,8 @@ The file is fully entrusted, so if you have or have any password that encrypts t
 If you are looking for a solution to the above five problems, then I have the solution for you. To solve this problem, you need to get the new version of Sorillus mouse or any working version, then you need to run Sorillus mouse remote desktop, and after downloading Java, it will encrypt it for you without paying you a single dollar.
 
 ![image](https://github.com/user-attachments/assets/bba64780-be6f-4cac-8f2e-e3e5994ef660)
+
+-------------------
+Apply these settings
+
+![image](https://github.com/user-attachments/assets/e8f335d5-6d69-4faf-a8f2-ad665ad7cb7c)
