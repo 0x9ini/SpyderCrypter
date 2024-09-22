@@ -27,3 +27,8 @@ If you are looking for a solution to the above five problems, then I have the so
 Apply these settings
 
 ![image](https://github.com/user-attachments/assets/e8f335d5-6d69-4faf-a8f2-ad665ad7cb7c)
+
+-------------------
+The problem was successfully fixed after the steps I learned above👌 .
+
+![image](https://github.com/user-attachments/assets/d4f5dca8-a19a-4216-9792-5700d93a885a)
