@@ -13,3 +13,7 @@ If the file is exe, it will be converted to bat, so I will know at that time tha
 
 ![image](https://github.com/user-attachments/assets/4b86dc1b-2e3a-4ad5-bf54-b2bf0fc2430e)
 
+-------------------
+The file is fully entrusted, so if you have or have any password that encrypts the payload, this will help with that.
+
+![image](https://github.com/user-attachments/assets/d215c481-2e14-4922-b73e-8dee4ae97ae4)
